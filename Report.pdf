@@ -1,0 +1,14 @@
+Human Activities Analysis
+==========================
+Ameen AboDabash
+
+
+Loading required packages.
+
+```{r}
+packages<-c("data.table", "dplyr","ggplot2")
+sapply(packages, require, character.only = TRUE)
+
+```
+
+
